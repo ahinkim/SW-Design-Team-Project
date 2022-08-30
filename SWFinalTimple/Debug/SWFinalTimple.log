@@ -1,0 +1,5 @@
+﻿  team.c
+C:\Users\ahin9\source\repos\SWFinalTimple\SWFinalTimple\team.c(131,18): warning C4244:  '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\ahin9\source\repos\SWFinalTimple\SWFinalTimple\team.c(848,1): warning C4028:  정식 매개 변수 1이(가) 선언과 다릅니다.
+C:\Users\ahin9\source\repos\SWFinalTimple\SWFinalTimple\team.c(1533): warning C4716:  'DetectNpc_ShotCollision': 값을 반환해야 합니다.
+  SWFinalTimple.vcxproj -> C:\Users\ahin9\source\repos\SWFinalTimple\Debug\SWFinalTimple.exe
